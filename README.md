@@ -1,5 +1,5 @@
 - 👋 @mair-de-la-marsh
-- 👀 I’m new here. Top interest: domains
+- 👀 I’m new here. Top interest: Azure, domains, and VMs 
 - 🌱 I’m currently learning azure fundamentals and administration with a sprinkle of Net+.
 - 💞️ I’m looking to collaborate on [undefined] ...
 - 📫 How to reach me ...
